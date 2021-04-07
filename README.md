@@ -1,6 +1,7 @@
 ## tests
 
+```bash
+npm install
 
-```npm install```
-
-```npm test```
+npm test
+```
